@@ -1,4 +1,4 @@
-# Meu projeto calculadora 👩🏾‍💻🧮
+#  Projeto Calculadora 👩🏾‍💻🧮
 
 ### Para criar este projeto eu usei HTML CSS e um pouco de JAVASCRIPT!
 <br>
